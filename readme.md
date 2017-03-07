@@ -16,8 +16,9 @@ Por favor, se gostou do livro, marque o repositório com uma estrela, ou melhor 
 </p>
 <img width='60%' src="https://raw.githubusercontent.com/agabardo/ola-mundo/master/public/img/imagens-github/Capa-laravel-para-ninjas.png" alt="Laravel para Ninjas - Ademir Gabardo, Novatec -2017"/>
 
-#Outros livros do mesmo autor.
-<img src="https://raw.githubusercontent.com/agabardo/ola-mundo/ea55f49724e01e7c28a83cd2fb2d55b2d41f8c58/public/img/imagens-github/capas.jpg" alt="Capas livros Ademir Gabardo" />
+##Outros livros do mesmo autor.
+<a href='http://www.novatec.com.br/autores/gabardo.php'>
+<img src="https://raw.githubusercontent.com/agabardo/ola-mundo/ea55f49724e01e7c28a83cd2fb2d55b2d41f8c58/public/img/imagens-github/capas.jpg" alt="Capas livros Ademir Gabardo" /></a>
 
 ##Versão do framework usada nesses arquivos de exemplo: 5.4.1
 
