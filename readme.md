@@ -11,19 +11,19 @@ Se você encontrar erros no código pode enviar para ademir.gabbardo(at)gmail.co
 Obrigado e boa leitura.
 
 ##Como citar ou referenciar o livro Laravel para Ninjas:
-Estilo ABNT:
+Estilo ABNT<br/>
 GABARDO, A. C.; Laravel para Ninjas. São Paulo: SP, 2017. 184 p.
 
-Estilo APA:
+Estilo APA<br/>
 Gabardo, A. C. (2017). Laravel para Ninjas (Vol. 1). (R. Prates, Ed.) São Paulo, SP, Brasil: Novatec Editora Ltda.
 
-Estilo Chicago:
+Estilo Chicago<br/>
 Gabardo, Ademir Cristiano. 2017. Laravel para Ninjas. Edited by Rubens Prates. Vol. 1. 1 vols. São Paulo, SP: Novatec Editora Ltda.
 
-Estilo IEEE: 
+Estilo IEEE<br/>
 [1] A. C. Gabardo, Laravel para Ninjas, vol. 1, R. Prates, Ed., São Paulo, SP: Novatec Editora Ltda., 2017, p. 184.
 
-Obs: nesse repositóio você encontra o arquivo gabardoLaravel2017.bib para uso em programas de referências.
+Obs: nesse repositóio você encontra o arquivo <b>gabardoLaravel2017.bib</b> para uso em programas de referências.
 
 #Lista de tarefas. Versão do Framework 5.4.1
 
