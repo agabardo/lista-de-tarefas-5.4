@@ -1,6 +1,7 @@
 Olá, eu sou o Ademir (Chris) Gabardo, se você chegou a este repositório é provável que você seja um leitor do livro Laravel para Ninjas. Muito obrigado pela confiança. Espero que a leitura seja útil aos seus estudos. Se você achou o livro útil e gostaria de agradecer, tome uma (ou várias) das ações abaixo.
 
 <ul>
+<li>Referencie o livro em seus trabalhos acadêmicos</li>
 <li>Escreva um comentário sobre o livro no <a href='https://novatec.com.br/autores/gabardo.php'>site da editora</a>.</li>
 <li>Marque o repositório com uma estrela.</li>
 <li>Adicione-me a sua rede de contatos do <a href='https://www.linkedin.com/in/ademirgabardo/'>Linkedin</a> e me endosse pelos conhecimentos em Laravel.</li>
@@ -8,6 +9,21 @@ Olá, eu sou o Ademir (Chris) Gabardo, se você chegou a este repositório é pr
 
 Se você encontrar erros no código pode enviar para ademir.gabbardo(at)gmail.com.
 Obrigado e boa leitura.
+
+##Como citar ou referenciar o livro Laravel para Ninjas:
+Estilo ABNT:
+GABARDO, A. C.; Laravel para Ninjas. São Paulo: SP, 2017. 184 p.
+
+Estilo APA:
+Gabardo, A. C. (2017). Laravel para Ninjas (Vol. 1). (R. Prates, Ed.) São Paulo, SP, Brasil: Novatec Editora Ltda.
+
+Estilo Chicago:
+Gabardo, Ademir Cristiano. 2017. Laravel para Ninjas. Edited by Rubens Prates. Vol. 1. 1 vols. São Paulo, SP: Novatec Editora Ltda.
+
+Estilo IEEE: 
+[1] A. C. Gabardo, Laravel para Ninjas, vol. 1, R. Prates, Ed., São Paulo, SP: Novatec Editora Ltda., 2017, p. 184.
+
+Obs: nesse repositóio você encontra o arquivo gabardoLaravel2017.bib para uso em programas de referências.
 
 #Lista de tarefas. Versão do Framework 5.4.1
 
